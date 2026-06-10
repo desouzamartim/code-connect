@@ -24,3 +24,7 @@ Thumbs.db
 .vscode/*
 !.vscode/extensions.json
 .idea
+
+# Claude Code local config (contains secrets)
+.claude/settings.local.json
+.claude/mcp*.json
